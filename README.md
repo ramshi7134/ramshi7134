@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋 I'm Ramsheed
 
-<!--
-**ramshi7134/ramshi7134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Laravel Developer | SaaS Builder | POS Systems**
 
-Here are some ideas to get you started:
+I am a full-stack developer specializing in **Laravel applications, SaaS platforms, POS systems, and API development**.  
+I enjoy building scalable products and automation tools that solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Backend developer focused on **Laravel & PHP**
+- 🏗 Building **SaaS platforms and POS systems**
+- ⚡ Experienced in **API development & integrations**
+- 🌱 Currently exploring **microservices architecture**
+- 🚀 Passionate about building **real-world business applications**
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- PHP
+- Laravel
+- REST API
+- MySQL
+
+**Frontend**
+- Vue.js
+- TailwindCSS
+- JavaScript
+
+**DevOps & Tools**
+- Git
+- Docker
+- Nginx
+- Linux
+
+---
+
+## 🔥 Current Projects
+
+- 🧾 Restaurant POS System  
+- 🧺 Laundry Management SaaS  
+- 📦 Laravel Package Generator  
+- 🤖 WhatsApp Order Automation  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramshi7134&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramshi7134&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Website: https://ramsheed.com
+- 📧 Email: chatwith@ramsheed.com
+- 💼 GitHub: https://github.com/ramshi7134
+
+---
+
+⭐ If you find my projects useful, feel free to **star the repositories**!
