@@ -49,9 +49,9 @@ I enjoy building scalable products and automation tools that solve real business
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramshi7134&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://vercel-b53h.vercel.app/api?username=ramshi7134&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramshi7134&layout=compact&theme=tokyonight)
+![Top Languages](https://vercel-b53h.vercel.app/api/top-langs/?username=ramshi7134&layout=compact)
 
 ---
 
