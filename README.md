@@ -47,14 +47,6 @@ I enjoy building scalable products and automation tools that solve real business
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://vercel-b53h.vercel.app/api?username=ramshi7134&show_icons=true)
-
-![Top Languages](https://vercel-b53h.vercel.app/api/top-langs/?username=ramshi7134&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 - 🌍 Website: https://ramsheed.com
